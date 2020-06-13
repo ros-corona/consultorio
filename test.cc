@@ -7,6 +7,7 @@ char examen[2];
 
 cout<<"PSICOTERAPIA EDUCATIVA INFANTIL"<<endl;   
 cout<<"DESARROLLO DE HABILIDADES COGNITIVAS"<<endl;   
+cout<<"SOFTWARE DISEÑADO POR:"<<endl;
 cout<<"DEPARTAMENTO DE DIFICULTADES ESPECIFICAS DEL APRENDIZAJE *DEA*"<<endl;
 cout<<"WISC IV: Prueba de medicion de coeficiente intelectual"<<endl;
 cout<<"Digite el resultado obtenido por el paciente:"<<endl;
